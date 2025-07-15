@@ -1,19 +1,19 @@
 {
-  "name": "no-dep",
+  "name": "just-no",
   "version": "1.0.0",
   "description": "Empty NPM package to exclude dependencies using `override` in `package.json`",
-  "homepage": "https://github.com/124c4a/no-dep#readme",
+  "homepage": "https://github.com/124c4a/just-no#readme",
   "keywords": [
     "empty",
     "override",
     "no-code"
   ],
   "bugs": {
-    "url": "https://github.com/124c4a/no-dep/issues"
+    "url": "https://github.com/124c4a/just-no/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/124c4a/no-dep.git"
+    "url": "git+https://github.com/124c4a/just-no.git"
   },
   "license": "UNLICENSED",
   "author": "Artem Godin",
