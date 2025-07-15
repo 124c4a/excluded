@@ -1,19 +1,19 @@
 {
-  "name": "just-no",
+  "name": "dont-install",
   "version": "0.0.0",
   "description": "Empty NPM package to exclude dependencies using `override` in `package.json`",
-  "homepage": "https://github.com/124c4a/just-no#readme",
+  "homepage": "https://github.com/124c4a/dont-install#readme",
   "keywords": [
     "empty",
     "override",
     "no-code"
   ],
   "bugs": {
-    "url": "https://github.com/124c4a/just-no/issues"
+    "url": "https://github.com/124c4a/dont-install/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/124c4a/just-no.git"
+    "url": "git+https://github.com/124c4a/dont-install.git"
   },
   "license": "UNLICENSED",
   "author": "Artem Godin",
