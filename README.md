@@ -10,9 +10,6 @@
 
 ```json
 {
-    "dependencies": {
-        ...
-    },
     "override": {
         "some-package-i-dont-need": "npm:excluded"
     }
