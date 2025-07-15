@@ -1,18 +1,18 @@
 # Empty NPM package to exclude dependencies using `override` in `package.json`
 
-![NPM Last Update](https://img.shields.io/npm/last-update/excluded)
-![NPM Version](https://img.shields.io/npm/v/excluded)
-![NPM Downloads](https://img.shields.io/npm/dm/excluded)
-![npm bundle size](https://img.shields.io/bundlephobia/min/excluded)
-![NPM License](https://img.shields.io/npm/l/excluded)
+![NPM Last Update](https://img.shields.io/npm/last-update/no-dep)
+![NPM Version](https://img.shields.io/npm/v/no-dep)
+![NPM Downloads](https://img.shields.io/npm/dm/no-dep)
+![npm bundle size](https://img.shields.io/bundlephobia/min/no-dep)
+![NPM License](https://img.shields.io/npm/l/no-dep)
 
 ## Usage
 
 ```json
 {
-    "override": {
-        "some-package-i-dont-need": "npm:excluded"
-    }
+  "override": {
+    "some-package-i-dont-need": "npm:no-dep"
+  }
 }
 ```
 
