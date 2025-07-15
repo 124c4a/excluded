@@ -1,6 +1,6 @@
 {
   "name": "just-no",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Empty NPM package to exclude dependencies using `override` in `package.json`",
   "homepage": "https://github.com/124c4a/just-no#readme",
   "keywords": [
