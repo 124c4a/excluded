@@ -19,5 +19,16 @@
   "author": "Artem Godin",
   "type": "module",
   "main": "index.js",
+  "exports": {
+    "./package.json": "./package.json",
+    ".": {
+      "development": "./index.js",
+      "import": "./index.js",
+      "default": "./index.js"
+    }
+  },
+  "files": [
+    "index.js"
+  ],
   "scripts": {}
 }
